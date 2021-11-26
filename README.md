@@ -10,7 +10,7 @@ Verificarea se face printr-un buton , iar rezultatele ( indicate de un mesaj(Ale
 - "Masinuma cu numarul de inmatriculare XX00XXX nu are asigurare" . Acest mesaj va aparea in momentul in care valoarea atribuita numarului de inmatriculare este "false" . 
 - "Masinuma cu numarul de inmatriculare XX00XXX are asigurare" . Acest mesaj va aparea in momentul in care numarul de inmatriculare se afla in baza de date si valoarea acestuia este "true" . Pentru acele masini care au asigurare , se poate vizualiza data expirarii acesteia fiind reprezentat de un ArrayList . Legatura dintre "Baza de date" reprezentata de un LinkedHashMap si ArrayList-ul ce reprezinta datele de expirare ale asigurarilor s-a realizat tot printr-un LinkedHasMap unde cheia reprezinta primul LinkedHasMap ("Baza de date") iar valoarea este ArrayList-ul.
 
-Proiectul este abia inceput , avand inca cateva probleme , cum ar fi selectarea datii de expirare a asigurarii pentru numarul de inmatriculare respectiv.
+Proiectul este abia inceput , avand inca cateva probleme , cum ar fi selectarea datei de expirare a asigurarii pentru numarul de inmatriculare respectiv.
 
 Dezvoltarea pe viitor al proiectului reprezinta :
 - Utilizarea bazelor de date
